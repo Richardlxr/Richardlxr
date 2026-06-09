@@ -1,0 +1,31 @@
+<svg width="520" height="220" viewBox="0 0 520 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Learning focus map</title>
+  <desc id="desc">Focus map showing C++, data structures, AI agents, and public notes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="520" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eff6ff"/>
+      <stop offset="1" stop-color="#f8fafc"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="504" height="204" rx="22" fill="url(#bg)" stroke="#dbeafe" stroke-width="2"/>
+  <text x="34" y="48" fill="#0f172a" font-family="Inter, ui-sans-serif, system-ui" font-size="22" font-weight="800">Learning Focus</text>
+  <g font-family="Inter, ui-sans-serif, system-ui" font-size="14" font-weight="700">
+    <rect x="34" y="72" width="206" height="42" rx="14" fill="white"/>
+    <circle cx="58" cy="93" r="6" fill="#2563eb"/>
+    <text x="74" y="98" fill="#1e40af">C++ foundations</text>
+
+    <rect x="270" y="72" width="216" height="42" rx="14" fill="white"/>
+    <circle cx="294" cy="93" r="6" fill="#16a34a"/>
+    <text x="310" y="98" fill="#166534">Data structures</text>
+
+    <rect x="34" y="130" width="206" height="42" rx="14" fill="white"/>
+    <circle cx="58" cy="151" r="6" fill="#f59e0b"/>
+    <text x="74" y="156" fill="#92400e">AI agent workflows</text>
+
+    <rect x="270" y="130" width="216" height="42" rx="14" fill="white"/>
+    <circle cx="294" cy="151" r="6" fill="#ef4444"/>
+    <text x="310" y="156" fill="#991b1b">Learning notes</text>
+  </g>
+  <path d="M258 86v78" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="6 8"/>
+  <path d="M70 122h380" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="6 8"/>
+</svg>
