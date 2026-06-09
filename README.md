@@ -1,0 +1,106 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2563eb,35:16a34a,70:f59e0b,100:ef4444&amp;height=180&amp;section=header&amp;text=Richard_L&amp;fontSize=48&amp;fontAlignY=36&amp;desc=C%2B%2B%20Learner%20%7C%20AI%20Agent%20Builder%20%7C%20Learning%20in%20Public&amp;descAlignY=58&amp;animation=fadeIn" alt="Richard_L profile header" />
+
+  <a href="mailto:2323805802l@gmail.com"><img src="https://img.shields.io/badge/Email-2323805802l%40gmail.com-ea4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Richardlxr"><img src="https://img.shields.io/badge/GitHub-Richardlxr-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Focus-AI%20Agents-2563eb?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="AI agents" />
+  <img src="https://img.shields.io/badge/Code-C%2B%2B%20%2B%20DSA-16a34a?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++ and data structures" />
+
+  <br />
+  <br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=22&amp;duration=2800&amp;pause=800&amp;color=2563EB&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Learning+C%2B%2B+and+data+structures;Building+with+AI+agents;Vibe-coding+Skillpkg;Publishing+notes+as+I+learn" alt="Typing animation" />
+</div>
+
+---
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>Hi, I am Richard.</h3>
+      <p>
+        I am currently in a learning-and-building stage: strengthening my C++ foundation,
+        practicing data structures, and using AI agents as a serious coding partner rather
+        than just a chat box.
+      </p>
+      <p>
+        My current center of gravity is <b>agent-native development</b>: giving tools,
+        context, reusable skills, and feedback loops to coding agents, then shipping real
+        projects through that workflow.
+      </p>
+    </td>
+    <td width="42%" valign="top" align="center">
+      <img src="./assets/agent-loop.svg" width="100%" alt="AI agent workflow animation" />
+    </td>
+  </tr>
+</table>
+
+## Featured Build
+
+<a href="https://github.com/Richardlxr/SKillpkg">
+  <img align="right" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=Richardlxr&amp;repo=SKillpkg&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563eb&amp;text_color=334155&amp;icon_color=16a34a" alt="SKillpkg repository card" />
+</a>
+
+### Skillpkg
+
+Skillpkg is the project I want to highlight most here.
+
+It is my main <b>vibe-coded AI-agent tooling project</b>: a place where I explore how
+skills, prompts, reusable workflows, and project context can become practical building
+blocks for coding agents.
+
+What it represents:
+
+- Turning AI-agent usage from "asking questions" into repeatable engineering workflow.
+- Learning TypeScript and tool design through a real project.
+- Building in public while keeping the project useful for my own daily coding.
+
+<br clear="right" />
+
+## Public Learning Trail
+
+<p>
+  <a href="https://github.com/Richardlxr/MySkills">
+    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=Richardlxr&amp;repo=MySkills&amp;theme=transparent&amp;hide_border=true&amp;title_color=16a34a&amp;text_color=334155&amp;icon_color=f59e0b" alt="MySkills repository card" />
+  </a>
+  <a href="https://github.com/Richardlxr/Notes-By-Obsidian">
+    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=Richardlxr&amp;repo=Notes-By-Obsidian&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563eb&amp;text_color=334155&amp;icon_color=ef4444" alt="Notes repository card" />
+  </a>
+  <a href="https://github.com/Richardlxr/SJTU_InformationGrabber">
+    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=Richardlxr&amp;repo=SJTU_InformationGrabber&amp;theme=transparent&amp;hide_border=true&amp;title_color=7c3aed&amp;text_color=334155&amp;icon_color=06b6d4" alt="SJTU InformationGrabber repository card" />
+  </a>
+</p>
+
+## Current Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,ts,python,git,github,vscode,md" alt="Current stack icons" />
+</div>
+
+## GitHub Signals
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Richardlxr&amp;show_icons=true&amp;rank_icon=github&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563eb&amp;text_color=334155&amp;icon_color=16a34a" alt="GitHub stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardlxr&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=ef4444&amp;text_color=334155" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=Richardlxr&amp;theme=transparent&amp;hide_border=true&amp;ring=2563eb&amp;fire=f59e0b&amp;currStreakLabel=16a34a" alt="GitHub streak" />
+</p>
+
+## Contribution Animation
+
+<!--
+  This image is generated by .github/workflows/snake.yml after the repository
+  is pushed to GitHub and GitHub Actions has run at least once.
+-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Richardlxr/Richardlxr/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Richardlxr/Richardlxr/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Richardlxr/Richardlxr/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ef4444,35:f59e0b,70:16a34a,100:2563eb&amp;height=110&amp;section=footer" alt="Footer wave" />
+</div>
