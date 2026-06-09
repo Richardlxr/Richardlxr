@@ -38,7 +38,7 @@
 ## Featured Build
 
 <a href="https://github.com/Richardlxr/SKillpkg">
-  <img align="right" width="390" src="https://github-readme-stats.vercel.app/api/pin/?username=Richardlxr&amp;repo=SKillpkg&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563eb&amp;text_color=334155&amp;icon_color=16a34a" alt="SKillpkg repository card" />
+  <img align="right" width="390" src="./assets/card-skillpkg.svg" alt="SKillpkg repository card" />
 </a>
 
 ### Skillpkg
@@ -60,14 +60,11 @@ What it represents:
 ## Public Learning Trail
 
 <p>
-  <a href="https://github.com/Richardlxr/MySkills">
-    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=Richardlxr&amp;repo=MySkills&amp;theme=transparent&amp;hide_border=true&amp;title_color=16a34a&amp;text_color=334155&amp;icon_color=f59e0b" alt="MySkills repository card" />
-  </a>
   <a href="https://github.com/Richardlxr/Notes-By-Obsidian">
-    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=Richardlxr&amp;repo=Notes-By-Obsidian&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563eb&amp;text_color=334155&amp;icon_color=ef4444" alt="Notes repository card" />
+    <img width="48%" src="./assets/card-notes.svg" alt="Notes repository card" />
   </a>
   <a href="https://github.com/Richardlxr/SJTU_InformationGrabber">
-    <img width="31%" src="https://github-readme-stats.vercel.app/api/pin/?username=Richardlxr&amp;repo=SJTU_InformationGrabber&amp;theme=transparent&amp;hide_border=true&amp;title_color=7c3aed&amp;text_color=334155&amp;icon_color=06b6d4" alt="SJTU InformationGrabber repository card" />
+    <img width="48%" src="./assets/card-sjtu.svg" alt="SJTU InformationGrabber repository card" />
   </a>
 </p>
 
@@ -80,8 +77,8 @@ What it represents:
 ## GitHub Signals
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Richardlxr&amp;show_icons=true&amp;rank_icon=github&amp;theme=transparent&amp;hide_border=true&amp;title_color=2563eb&amp;text_color=334155&amp;icon_color=16a34a" alt="GitHub stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richardlxr&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=ef4444&amp;text_color=334155" alt="Top languages" />
+  <img width="48%" src="./assets/focus-map.svg" alt="Learning focus map" />
+  <img width="48%" src="./assets/building-signals.svg" alt="Building signals" />
 </p>
 
 <p align="center">
