@@ -60,8 +60,8 @@ What it represents:
 ## Public Learning Trail
 
 <p>
-  <a href="https://github.com/Richardlxr/Notes-By-Obsidian">
-    <img width="48%" src="./assets/card-notes.svg" alt="Notes repository card" />
+  <a href="https://github.com/Richardlxr/DataStructure">
+    <img width="48%" src="./assets/card-datastructure.svg" alt="Data Structure learning notes card" />
   </a>
   <a href="https://github.com/Richardlxr/SJTU_InformationGrabber">
     <img width="48%" src="./assets/card-sjtu.svg" alt="SJTU InformationGrabber repository card" />

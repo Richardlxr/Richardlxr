@@ -1,0 +1,13 @@
+<svg width="360" height="180" viewBox="0 0 360 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Data Structure learning notes card</title>
+  <desc id="desc">Repository card for C++ data structure learning notes.</desc>
+  <rect x="5" y="5" width="350" height="170" rx="18" fill="#f8fafc" stroke="#bfdbfe" stroke-width="2"/>
+  <rect x="24" y="24" width="312" height="132" rx="15" fill="white"/>
+  <circle cx="54" cy="56" r="18" fill="#dbeafe"/>
+  <path d="M45 48h18v16H45zM54 64v10M43 74h22" stroke="#2563eb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="84" y="54" fill="#1e3a8a" font-family="Inter, ui-sans-serif, system-ui" font-size="20" font-weight="800">Data_Structure</text>
+  <text x="84" y="78" fill="#475569" font-family="Inter, ui-sans-serif, system-ui" font-size="13">C++ learning notes</text>
+  <text x="36" y="116" fill="#64748b" font-family="Inter, ui-sans-serif, system-ui" font-size="13">Data structures, practice, and review notes.</text>
+  <rect x="36" y="132" width="70" height="24" rx="12" fill="#eff6ff"/>
+  <text x="52" y="148" fill="#1d4ed8" font-family="Inter, ui-sans-serif, system-ui" font-size="12" font-weight="700">C++</text>
+</svg>
